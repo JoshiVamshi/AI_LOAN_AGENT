@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NBFC Loan Management System
 
 A production-grade full-stack loan management system with AI-powered loan processing, credit scoring, and an intelligent chatbot loan officer.
@@ -436,3 +437,7 @@ For issues and questions:
 ---
 
 **Built with ❤️ using AI-powered development**
+=======
+# AI_LOAN_AGENT
+AI-powered NBFC Loan Management System with automated credit scoring, underwriting agents, and an intelligent loan officer chatbot. Built with FastAPI, React, MongoDB, and Mistral AI.
+>>>>>>> 3d7d90d6d680189786852b203a4420a9d3a06ac3
